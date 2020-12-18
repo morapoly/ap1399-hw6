@@ -8,7 +8,7 @@
 #include "gtest/gtest.h"
 namespace
 {
-/*
+
 TEST(APHW6Test, Test0)
 {
     Student s1 {9423013, 18.2, 26};
@@ -72,5 +72,5 @@ TEST(APHW6Test, Test5)
     show(v);
     show(l);
 }
-*/
+
 }
